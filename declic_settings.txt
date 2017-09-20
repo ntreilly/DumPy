@@ -1,0 +1,2 @@
+save_path = 'D:\\nicole.reilly\\Desktop\\Run5Act7_selection\\save_local\\'
+im_path = 'D:\\nicole.reilly\\Desktop\\Run5Act7_selection\\pics_sel_3\\' 
