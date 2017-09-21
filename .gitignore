@@ -98,5 +98,9 @@ ENV/
 # mypy
 .mypy_cache/
 
-#local path file should be unique to each user
-declic_settings.cfg
+#local path file should be unique to each user/OS
+declic_settings_linux.cfg
+declic_settings_windows.txt
+
+#also ignore local experimental parameters
+exp_params.txt
