@@ -9,7 +9,7 @@ Takes into account the possibility of different file paths and different experim
 Before running:
 Update declic_settings_linux.cfg file if using Linux or declic_settings_windows.txt file if using Windows.
 Replace file path in quotes after im_path = with path to directory where source images are located.
-Replace file path in quotes after save_path = with path to directory where opened images are to be saved.
+Replace file path in quotes after save_path = with path to (existent) directory where opened images are to be saved.
 Be sure the string is terminated by / (Linux) or \\ (Windows) and that Windows paths contain no single \ chars, only \\.
 Save file.
 
