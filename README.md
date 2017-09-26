@@ -23,4 +23,4 @@ Save file.
 
 Open Jupyter notebook, find and open Imgsavetimer.ipynb and run!
 
-Note: To avoid overwriting for different users, modified .txt and .cfg files should be added to the .gitignore file in this directory.
+Note: To avoid overwriting files for different users, any new .txt and .cfg filenames should be added to the .gitignore file in this directory.
